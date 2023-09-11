@@ -1,2 +1,1 @@
-from . import lan_mlp
-from . import snpe
+from .lan_mlp import *

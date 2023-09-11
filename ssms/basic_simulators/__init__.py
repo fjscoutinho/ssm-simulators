@@ -1,4 +1,2 @@
-from . import boundary_functions
-from . import drift_functions
-from . import simulator
-
+from .boundary_functions import *
+from .simulator import *
